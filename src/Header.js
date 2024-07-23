@@ -2,9 +2,7 @@ export default function Header(){
     return(
         <header>
             <img src="https://nodejs.org/static/images/logo.svg"></img>
-            <div>
-            <nav>
-                <ul>
+          
                     <li> MAIN</li>
                     <li>ABOUT</li>
                     <li>DOWNLOADS</li>
