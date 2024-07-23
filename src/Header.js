@@ -5,7 +5,7 @@ export default function Header(){
             <div>
             <nav>
                 <ul>
-                    <li> HOME</li>
+                    <li> MAIN</li>
                     <li>ABOUT</li>
                     <li>DOWNLOADS</li>
                     <li>DOCS</li>
